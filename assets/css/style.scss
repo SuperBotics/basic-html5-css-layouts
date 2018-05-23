@@ -1,0 +1,15 @@
+html,body {
+    margin:0;
+    padding:0;
+}
+
+.clearfix:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+
+.container{
+    max-width:960px;
+    width:100%;
+}
